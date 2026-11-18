@@ -5,7 +5,7 @@ A gallery block for Editor.js: several pictures at once, reorder, remove, requir
 ## Install
 
 ```
-npm i github:Speedfreakhorror-Official/editorjs-gallery
+npm i github:speedfreakhorror/editorjs-gallery
 ```
 
 Import the tool and its stylesheet:

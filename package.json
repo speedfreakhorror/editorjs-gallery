@@ -1,6 +1,6 @@
 {
   "name": "editorjs-gallery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A gallery block for Editor.js: several pictures at once, reorder, remove, required alt text.",
   "private": false,
   "license": "MIT",
